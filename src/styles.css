@@ -1,1 +1,49 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/css/global.css";
+
+@import "assets/css/auth-frame.css";
+@import "assets/css/auth-frame1.css";
+@import "assets/css/auth-frame2.css";
+@import "assets/css/auth-frame3.css";
+@import "assets/css/auth-frame4.css";
+@import "assets/css/auth-frame5.css";
+
+@import "assets/css/card-user.css";
+
+@import "assets/css/component.css";
+@import "assets/css/component1.css";
+@import "assets/css/component2.css";
+@import "assets/css/component3.css";
+@import "assets/css/component4.css";
+@import "assets/css/component5.css";
+@import "assets/css/component6.css";
+@import "assets/css/component7.css";
+@import "assets/css/component8.css";
+@import "assets/css/component9.css";
+@import "assets/css/component10.css";
+@import "assets/css/component11.css";
+@import "assets/css/component12.css";
+
+@import "assets/css/header-container.css";
+@import "assets/css/header-container1.css";
+
+@import "assets/css/header-frame.css";
+@import "assets/css/header-frame1.css";
+@import "assets/css/header-frame2.css";
+@import "assets/css/header-frame3.css";
+
+@import "assets/css/index.css";
+
+@import "assets/css/popap.css";
+@import "assets/css/popap1.css";
+@import "assets/css/popap2.css";
+@import "assets/css/popap3.css";
+@import "assets/css/popap4.css";
+@import "assets/css/popap5.css";
+
+@import "assets/css/registration-form.css";
+@import "assets/css/registration-form1.css";
+
+@import "assets/css/registration-frame.css";
+@import "assets/css/registration-frame1.css";
+

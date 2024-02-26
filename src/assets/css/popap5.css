@@ -1,0 +1,103 @@
+.header33 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--h1-size);
+  line-height: 110%;
+  font-weight: 600;
+  font-family: var(--body-20);
+  color: var(--color-primary-green-1);
+  text-align: center;
+}
+.frame-child {
+  height: 268px;
+  width: 268px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  object-fit: contain;
+}
+.nested-frame-child {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  object-fit: cover;
+}
+.nested-frame-item {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  object-fit: contain;
+}
+.nested-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  min-width: 100px;
+}
+.frame-section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-11xl);
+}
+.ic-navigation-arrow-forwar23 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 16px;
+}
+.div642 {
+  position: relative;
+  line-height: 11px;
+}
+.text80 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs) var(--padding-12xs);
+}
+.ic-hardware-keyboard-arrow106 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 16px;
+}
+.button84,
+.popap7 {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.button84 {
+  align-self: stretch;
+  height: 36px;
+  border-radius: var(--br-981xl);
+  background-color: var(--color-primary-green-1);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-xs);
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--description-size);
+  color: var(--color-primary-white);
+  font-family: var(--body-20);
+}
+.popap7 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-primary-white);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-31xl);
+  gap: var(--gap-11xl);
+}
